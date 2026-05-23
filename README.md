@@ -181,7 +181,7 @@ If you have an idea or a project, let's build something amazing together.
 
 <div align="center">
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Technology%20is%20best%20when%20it%20brings%20people%20together.&author=Matt%20Mullenweg" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Technology%20is%20best%20when%20it%20brings%20people%20together.&author=Jacob%20Joseph" />
   
   ---
   
