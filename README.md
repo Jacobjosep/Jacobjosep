@@ -171,7 +171,7 @@ If you have an idea or a project, let's build something amazing together.
 
 ## ✨ Fun Facts About Me
 
-- 🎬 I served as **Director of Photography** for university-wide events
+- 🎬 I served as **Director of Partnership** for Mount Kenya university clubs and assosiations -wide events
 - 🗣️ I am a **certified debater** and experienced public speaker
 - 🎨 I believe **good design** is just as important as good code
 - 🤖 I am constantly exploring **AI, automation, and cloud technologies**
