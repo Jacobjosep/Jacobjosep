@@ -81,12 +81,8 @@ Whether I'm architecting a web application, transforming raw data into actionabl
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jacobjosep&show_icons=true&theme=dark&bg_color=0a2e1f&title_color=f4c542&icon_color=f4c542&text_color=ffffff&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacobjosep&layout=compact&theme=dark&bg_color=0a2e1f&title_color=f4c542&text_color=ffffff&hide_border=true" />
-</div>
+📈 GitHub Analytics
+<div align="center"> <table> <tr> <td> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jacobjosep&show_icons=true&theme=dark&bg_color=0a2e1f&title_color=f4c542&icon_color=f4c542&text_color=ffffff&hide_border=true" alt="GitHub Stats"/> </td> <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacobjosep&layout=compact&theme=dark&bg_color=0a2e1f&title_color=f4c542&text_color=ffffff&hide_border=true" alt="Top Languages"/> </td> </tr> </table> <!-- GitHub Trophy / Achievements --> <img src="https://github-profile-trophy.vercel.app/?username=Jacobjosep&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/> <!-- Activity Graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jacobjosep&theme=github-compact&bg_color=0a2e1f&color=f4c542&line=f4c542&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/> <!-- Profile Views Counter --> <img src="https://komarev.com/ghpvc/?username=Jacobjosep&label=Profile%20Views&color=f4c542&style=for-the-badge" alt="Profile Views" /></div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jacobjosep&theme=dark&background=0a2e1f&ring=f4c542&fire=f4c542&currStreakLabel=f4c542&hide_border=true" />
