@@ -41,7 +41,7 @@ Whether I'm architecting a web application, transforming raw data into actionabl
 | 📊 **Analytics** | Data Cleaning, Visualization, Reporting, Insights |
 | 🎨 **Design** | UI/UX, Branding, Print & Digital Media |
 | 🧠 **Leadership** | Student Leader, Event Coordinator, Team Management |
-| 🗣️ **Communication** | Certified Debater, Public Speaker, Content Creator |
+| 🗣️ **Communication** | Certified Debater, Public Speaker, Panelist |
 
 ---
 
@@ -49,8 +49,8 @@ Whether I'm architecting a web application, transforming raw data into actionabl
 
 | Role | Organization | Period |
 |------|--------------|--------|
-| 🎬 **Director of Photography (DOP)** | MKU Clubs & Associations | 2026 – 2027 |
-| 📋 **Organising Secretary** | Eldoret Nuba Youth Association | Active |
+| 🎬 **Director of Partnership (DOP)** | MKU Clubs & Associations | 2026 – 2027 |
+| 📋 **Organising Secretary** | Eldoret Nuba Youth Association | 2021 - 2022 |
 
 ---
 
