@@ -5,7 +5,7 @@ Full-Stack Developer | Data Analyst | Graphic Designer | Tech Enthusiast
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=F4C542&center=true&vCenter=true&width=600&lines=Jacob+Joseph+Yacoub;Full-Stack+Developer;Data+Analyst;Graphic+Designer;Tech+Enthusiast;MKU+IT+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=F4C542&center=true&vCenter=true&width=600&lines=Jacob+Joseph+Erishlo;Full-Stack+Developer;Data+Analyst;Graphic+Designer;Tech+Enthusiast;MKU+IT+Graduate" alt="Typing SVG" />
   
   <br/>
   
