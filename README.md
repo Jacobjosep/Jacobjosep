@@ -88,7 +88,7 @@ Whether I'm architecting a web application, transforming raw data into actionabl
 
 ## 🏅 Key Achievements
 
-- ✅ Director of Photography – MKU Clubs & Associations (2026–2027)
+- ✅ Director of Partnership – MKU Clubs & Associations (2026–2027)
 - ✅ Organising Secretary – Eldoret Nuba Youth Association
 - ✅ Certified Debater (Certificates Available)
 - ✅ Public Speaker
