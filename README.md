@@ -1,5 +1,5 @@
 <!--
-Professional GitHub Profile README - Jacob Joseph Yacoub
+Professional GitHub Profile README - Jacob Joseph Erishlo
 Full-Stack Developer | Data Analyst | Graphic Designer | Tech Enthusiast
 -->
 
@@ -16,7 +16,7 @@ Full-Stack Developer | Data Analyst | Graphic Designer | Tech Enthusiast
   <br/>
   
   <a href="https://jacob-joseph-erishlo.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-jacob--joseph--erishlo.vercel.app-0a2e1f?style=for-the-badge&logo=vercel&logoColor=f4c542" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-jacob--joseph--erishlo-0a2e1f?style=for-the-badge&logo=vercel&logoColor=f4c542" />
   </a>
   
 </div>
